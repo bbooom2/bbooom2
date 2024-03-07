@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=A9D0F5&height=300&section=header&text=Welcome%20to%20My%20Github&fontColor=FA5882&fontSize=50" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=A9D0F5&height=200&section=header&text=Welcome%20to%20My%20Github&fontColor=FA5882&fontSize=50" alt="header">
   
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbooom2%2Fhit-counter)&count_bg=%23F9C8E1&title_bg=%23A9D0F5&icon=&icon_color=D0FCB6&title=hits&edge_flat=false" alt="Hits"></a>
 
